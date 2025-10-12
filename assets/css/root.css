@@ -1,0 +1,89 @@
+:root {
+  /* Hauptfarben */
+  --mainColor: #258fe2;
+  --secColor: #67ade2;
+
+  /* Hintergrundfarben */
+  --mainBackgroundColor: #36393f;
+  --secBackgroundColor: rgb(64, 68, 75);
+  --navBackgroundColor: #353638;
+  --footerBackgroundColor: #353638;
+
+  /* Textfarben */
+  --fontColor: rgb(224, 224, 224);
+  --brandColor: #fff;
+
+  /* GradientColor */
+  --mainColorGradient: linear-gradient(45deg, rgb(37, 143, 226), rgb(103, 173, 226));
+  --metalLook: linear-gradient(45deg, #999 5%, #fff 10%, #ccc 30%, #ddd 50%, #ccc 70%, #fff 80%, #999 95%);
+
+  /* Iconfarben */
+  --discordIconBgColor: rgb(88, 101, 242);
+  --tiktokIconBgColor: rgb(238, 29, 82);
+  --instagramIconBgColor: rgb(195, 42, 163);
+  --facebookIconBgColor: rgb(24, 119, 242);
+  --twitterIconBgColor: rgb(29, 161, 242);
+  --twitchIconBgColor: rgb(145, 70, 255);
+  --youtubeIconBgColor: rgb(255, 0, 0);
+  --whatsappIconBgColor: rgb(37, 211, 102);
+
+  /* Categories */
+  --categoriesTextColor: #fff;
+  --categoriesBgColor: #2c2f33;
+  --categoriesBgHoverColor: #24272a;
+
+  /* vehicle */
+  --vehicleTitleColor: #fff;
+  --vehicleItemBgColor: #2c2f33;
+  --vehicleTitleBgColor: #36393f;
+  --vehicleDetailColor: #fff;
+  --vehicleSearchBgColor: #2c2f33;
+  --vehicleSearchColor: #fff;
+  --hoverTextColor: #fff;
+  --hoverTextSize: 14px;
+  --copiedBgColor: var(--secColor);
+  --copiedTextColor: #fff;
+
+  /* location */
+  --locationTitleColor: #fff;
+  --locationItemBgColor: #2c2f33;
+  --locationTitleBgColor: #36393f;
+  --locationDetailColor: #fff;
+  --locationSearchBgColor: #2c2f33;
+  --locationSearchColor: #fff;
+  --hoverTextColor: #fff;
+  --hoverTextSize: 14px;
+  --copiedBgColor: var(--secColor);
+  --copiedTextColor: #fff;
+
+  /* peds */
+  --pedTitleColor: #fff;
+  --pedItemBgColor: #2c2f33;
+  --pedTitleBgColor: #36393f;
+  --pedDetailColor: #fff;
+  --pedSearchBgColor: #2c2f33;
+  --pedSearchColor: #fff;
+
+  /* items */
+  --itemTitleColor: #fff;
+  --itemItemBgColor: #2c2f33;
+  --itemTitleBgColor: #36393f;
+  --itemDetailColor: #fff;
+  --itemSearchBgColor: #2c2f33;
+  --itemSearchColor: #fff;
+
+  /* mlos */
+  --mloTitleColor: #fff;
+  --mlomloBgColor: #2c2f33;
+  --mloTitleBgColor: #36393f;
+  --mloDetailColor: #fff;
+  --mloSearchBgColor: #2c2f33;
+  --mloSearchColor: #fff;
+
+  /* Sonstiges*/
+  --placeholerColor: #e6e3e3;
+
+  /* Footer */
+  --footerGradientStart: rgba(37, 144, 226, 0.175);
+  --footerGradientEnd: transparent;
+}
