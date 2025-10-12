@@ -1,0 +1,13 @@
+[
+  {
+    "category": "Department_of_Justice",
+    "image": "../assets/img/mlos/mlo_images/shmann/department_of_justice/Department_of_Justice_1.webp",
+    "title": "Department of Justice",
+    "youtube": "https://www.youtube.com/watch?v=9OtxL5_f5BY",
+    "website": "#",
+    "tebex": "https://shmannworks.tebex.io/",
+    "creator": "Shmann",
+    "coordinates": "-508.4572, -257.0374, 35.5985",
+    "imageSlider": ["../assets/img/mlos/mlo_images/shmann/department_of_justice/Department_of_Justice_1.webp", "../assets/img/mlos/mlo_images/shmann/department_of_justice/Department_of_Justice_2.webp", "../assets/img/mlos/mlo_images/shmann/department_of_justice/Department_of_Justice_3.webp", "../assets/img/mlos/mlo_images/shmann/department_of_justice/Department_of_Justice_4.webp", "../assets/img/mlos/mlo_images/shmann/department_of_justice/Department_of_Justice_5.webp", "../assets/img/mlos/mlo_images/shmann/department_of_justice/Department_of_Justice_6.webp"]
+  }
+]

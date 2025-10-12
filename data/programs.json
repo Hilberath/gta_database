@@ -1,0 +1,233 @@
+[
+  {
+    "category": { "de": "Karten-Editor", "en": "Map Editor" },
+    "logo": "assets/img/gtav/programs/codewalker.png",
+    "title": "Codewalker",
+    "description": {
+      "de": "Codewalker ist ein leistungsstarkes Tool, um GTA V-Karten, Modelle und Daten zu analysieren, zu bearbeiten und eigene Map-Modifikationen zu erstellen.",
+      "en": "Codewalker is a powerful tool for analyzing, editing, and creating map modifications for GTA V, including models and world data."
+    },
+    "link": "https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map",
+    "platforms": ["Windows"]
+  },
+  {
+    "category": { "de": "Modding-Tool / Archiv-Editor", "en": "Modding-Tool / Archive Editor" },
+    "logo": "assets/img/gtav/programs/openiv.png",
+    "title": "OpenIV",
+    "description": {
+      "de": "OpenIV ist ein vielseitiges Modding-Tool für GTA V, mit dem Spieldateien geöffnet, bearbeitet und ersetzt werden können.",
+      "en": "OpenIV is a versatile modding tool for GTA V that allows you to open, edit, and replace game files."
+    },
+    "link": "https://openiv.com/",
+    "platforms": ["Windows"]
+  },
+  {
+    "category": { "de": "Bildbearbeitungsprogramm", "en": "Image Editing Program" },
+    "logo": "assets/img/gtav/programs/paintnet.png",
+    "title": "Paint.net",
+    "description": {
+      "de": "Paint.net ist ein einfach zu bedienendes Bildbearbeitungsprogramm mit vielen Funktionen, ideal für Texturarbeiten in GTA V.",
+      "en": "Paint.net is an easy-to-use image editing program with many features, ideal for texture work in GTA V."
+    },
+    "link": "https://www.getpaint.net/",
+    "platforms": ["Windows"]
+  },
+  {
+    "category": { "de": "Bildbearbeitungsprogramm", "en": "Image Editing Program" },
+    "logo": "assets/img/gtav/programs/gimp.png",
+    "title": "GIMP",
+    "description": {
+      "de": "GIMP ist eine kostenlose Open-Source-Bildbearbeitungssoftware, perfekt geeignet für komplexe Texturen und Grafikdesigns.",
+      "en": "GIMP is a free open-source image editing software, perfect for complex textures and graphic designs."
+    },
+    "link": "https://www.gimp.org/",
+    "platforms": ["Windows", "MacOS", "Linux"]
+  },
+  {
+    "category": { "de": "Bildbearbeitungsprogramm", "en": "Image Editing Program" },
+    "logo": "assets/img/gtav/programs/photoshop.png",
+    "title": "Photoshop",
+    "description": {
+      "de": "Adobe Photoshop ist der Industriestandard für Bildbearbeitung, ideal für hochwertige Texturen und Grafiken in GTA V.",
+      "en": "Adobe Photoshop is the industry standard for image editing, ideal for high-quality textures and graphics in GTA V."
+    },
+    "link": "https://www.adobe.com/products/photoshop.html",
+    "platforms": ["Windows", "MacOS"]
+  },
+  {
+    "category": { "de": "Code-Editor / IDE", "en": "Code Editor / IDE" },
+    "logo": "assets/img/gtav/programs/visualstudiocode.png",
+    "title": "Visual Studio Code",
+    "description": {
+      "de": "VS Code ist ein leichtgewichtiger, anpassbarer Code-Editor, der häufig für GTA V Skriptentwicklung genutzt wird.",
+      "en": "VS Code is a lightweight, customizable code editor commonly used for GTA V script development."
+    },
+    "link": "https://code.visualstudio.com/",
+    "platforms": ["Windows", "MacOS", "Linux"]
+  },
+  {
+    "category": { "de": "Code-Editor / IDE", "en": "Code Editor / IDE" },
+    "logo": "assets/img/gtav/programs/visualstudio.png",
+    "title": "Visual Studio",
+    "description": {
+      "de": "Visual Studio ist eine umfangreiche IDE für C#, C++ und andere Sprachen – perfekt für die Entwicklung von GTA V Mods und Plugins.",
+      "en": "Visual Studio is a comprehensive IDE for C#, C++, and other languages – perfect for developing GTA V mods and plugins."
+    },
+    "link": "https://visualstudio.microsoft.com/",
+    "platforms": ["Windows", "MacOS"]
+  },
+  {
+    "category": { "de": "Code-Editor / IDE", "en": "Code Editor / IDE" },
+    "logo": "assets/img/gtav/programs/jetbrainsrider.png",
+    "title": "JetBrains Rider",
+    "description": {
+      "de": "Rider ist eine leistungsstarke IDE für .NET-Entwicklung, ideal für ScriptHookVDotNet- und FiveM-Projekte.",
+      "en": "Rider is a powerful IDE for .NET development, ideal for ScriptHookVDotNet and FiveM projects."
+    },
+    "link": "https://www.jetbrains.com/rider/",
+    "platforms": ["Windows", "MacOS", "Linux"]
+  },
+  {
+    "category": { "de": "Datenbankverwaltungs-Tool", "en": "Database Management Tool" },
+    "logo": "assets/img/gtav/programs/heidisql.png",
+    "title": "HeidiSQL",
+    "description": {
+      "de": "HeidiSQL ist ein leichtgewichtiges Tool zur Verwaltung von MySQL-, MariaDB- und SQLite-Datenbanken – oft genutzt für GTA RP Server.",
+      "en": "HeidiSQL is a lightweight tool for managing MySQL, MariaDB, and SQLite databases – often used for GTA RP servers."
+    },
+    "link": "https://www.heidisql.com/",
+    "platforms": ["Windows"]
+  },
+  {
+    "category": { "de": "Versionskontrolle", "en": "Version Control" },
+    "logo": "assets/img/gtav/programs/git.png",
+    "title": "Git",
+    "description": {
+      "de": "Git ist ein Versionskontrollsystem, das die Nachverfolgung und Zusammenarbeit bei der Entwicklung von Mods ermöglicht.",
+      "en": "Git is a version control system that enables tracking and collaboration during mod development."
+    },
+    "link": "https://git-scm.com/",
+    "platforms": ["Windows", "MacOS", "Linux"]
+  },
+  {
+    "category": { "de": "FTP-Programm", "en": "FTP Program" },
+    "logo": "assets/img/gtav/programs/winscp.png",
+    "title": "WinSCP",
+    "description": {
+      "de": "WinSCP ist ein FTP-Client, mit dem Dateien einfach auf Server hochgeladen und synchronisiert werden können.",
+      "en": "WinSCP is an FTP client that allows easy file uploads and synchronization with servers."
+    },
+    "link": "https://winscp.net/",
+    "platforms": ["Windows"]
+  },
+  {
+    "category": { "de": "3D-Design-Programm", "en": "3D Design Program" },
+    "logo": "assets/img/gtav/programs/blender.png",
+    "title": "Blender",
+    "description": {
+      "de": "Blender ist ein kostenloses 3D-Designprogramm, das zur Erstellung und Bearbeitung von Modellen und Animationen für GTA V verwendet wird.",
+      "en": "Blender is a free 3D design program used for creating and editing models and animations for GTA V."
+    },
+    "link": "https://www.blender.org/",
+    "platforms": ["Windows", "MacOS", "Linux"]
+  },
+  {
+    "category": { "de": "Laufzeitumgebung", "en": "Runtime Environment" },
+    "logo": "assets/img/gtav/programs/nodejs.png",
+    "title": "Node.js",
+    "description": {
+      "de": "Node.js ist eine JavaScript-Laufzeitumgebung, die für Server- und Scriptentwicklung in GTA V-Projekten wie FiveM oder alt:V verwendet wird.",
+      "en": "Node.js is a JavaScript runtime used for server and script development in GTA V projects such as FiveM or alt:V."
+    },
+    "link": "https://nodejs.org/",
+    "platforms": ["Windows", "MacOS", "Linux"]
+  },
+  {
+    "category": { "de": "Paketverwaltung", "en": "Package Management" },
+    "logo": "assets/img/gtav/programs/npm.png",
+    "title": "npm",
+    "description": {
+      "de": "npm ist der Standard-Paketmanager für Node.js und wird zur Verwaltung von Modulen und Abhängigkeiten genutzt.",
+      "en": "npm is the default package manager for Node.js, used to manage modules and dependencies."
+    },
+    "link": "https://www.npmjs.com/",
+    "platforms": ["Windows", "MacOS", "Linux"]
+  },
+  {
+    "category": { "de": "Paketverwaltung", "en": "Package Management" },
+    "logo": "assets/img/gtav/programs/yarn.png",
+    "title": "Yarn",
+    "description": {
+      "de": "Yarn ist eine schnelle und sichere Alternative zu npm für die Verwaltung von Node.js-Paketen.",
+      "en": "Yarn is a fast and secure alternative to npm for managing Node.js packages."
+    },
+    "link": "https://yarnpkg.com/",
+    "platforms": ["Windows", "MacOS", "Linux"]
+  },
+  {
+    "category": { "de": "Programmiersprache", "en": "Programming Language" },
+    "logo": "assets/img/gtav/programs/python.png",
+    "title": "Python",
+    "description": {
+      "de": "Python ist eine vielseitige Programmiersprache, die für Serverautomatisierung, Skripting und Toolentwicklung verwendet wird.",
+      "en": "Python is a versatile programming language used for server automation, scripting, and tool development."
+    },
+    "link": "https://www.python.org/",
+    "platforms": ["Windows", "MacOS", "Linux"]
+  },
+  {
+    "category": { "de": "Code-Editor", "en": "Code Editor" },
+    "logo": "assets/img/gtav/programs/notepadplusplus.png",
+    "title": "Notepad++",
+    "description": {
+      "de": "Notepad++ ist ein schneller und leichter Texteditor, ideal für das Bearbeiten von Konfigurationsdateien und Skripten.",
+      "en": "Notepad++ is a fast and lightweight text editor, ideal for editing configuration files and scripts."
+    },
+    "link": "https://notepad-plus-plus.org/",
+    "platforms": ["Windows"]
+  },
+  {
+    "category": { "de": "Lokale Serverumgebung", "en": "Local Server Environment" },
+    "logo": "assets/img/gtav/programs/xampp.png",
+    "title": "XAMPP",
+    "description": {
+      "de": "XAMPP bietet eine einfache Möglichkeit, lokale Apache-, PHP- und MySQL-Server für GTA-Webinterfaces oder Datenbanken zu betreiben.",
+      "en": "XAMPP provides an easy way to run local Apache, PHP, and MySQL servers for GTA web interfaces or databases."
+    },
+    "link": "https://www.apachefriends.org/",
+    "platforms": ["Windows", "MacOS", "Linux"]
+  },
+  {
+    "category": { "de": "Lokale Serverumgebung", "en": "Local Server Environment" },
+    "logo": "assets/img/gtav/programs/laragon.png",
+    "title": "Laragon",
+    "description": {
+      "de": "Laragon ist eine schnelle und leichte lokale Entwicklungsumgebung für PHP, Node.js, MySQL und mehr.",
+      "en": "Laragon is a fast and lightweight local development environment for PHP, Node.js, MySQL, and more."
+    },
+    "link": "https://laragon.org/",
+    "platforms": ["Windows"]
+  },
+  {
+    "category": { "de": "FTP-Programm", "en": "FTP Program" },
+    "logo": "assets/img/gtav/programs/filezilla.png",
+    "title": "FileZilla",
+    "description": {
+      "de": "FileZilla ist ein beliebter FTP-Client zum Hochladen und Verwalten von Serverdateien.",
+      "en": "FileZilla is a popular FTP client for uploading and managing server files."
+    },
+    "link": "https://filezilla-project.org/",
+    "platforms": ["Windows", "MacOS", "Linux"]
+  },
+  {
+    "category": { "de": "Archiv-Tool", "en": "Archive Tool" },
+    "logo": "assets/img/gtav/programs/winrar.png",
+    "title": "WinRAR",
+    "description": {
+      "de": "WinRAR ist ein weit verbreitetes Tool zum Packen und Entpacken von Dateien, häufig für Mods und Ressourcenpakete verwendet.",
+      "en": "WinRAR is a widely used tool for compressing and extracting files, often used for mods and resource packs."
+    },
+    "link": "https://www.win-rar.com/",
+    "platforms": ["Windows"]
+  }
+]

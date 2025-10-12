@@ -1,0 +1,17 @@
+[
+  {
+    "category": "Boats",
+    "name": "Avisa",
+    "displayName": "Avisa",
+    "Manufacturer": "Kraken Submersibles",
+    "hash_hex": "0x9A474B5E",
+    "hash_unsigned": "2588363614",
+    "hash_signed": "-1706603682",
+    "seats": "4",
+    "weight": "2.000 kg",
+    "speed": "75 km/h",
+    "release_date": "15.12.2020",
+    "release_dlc": "1.52 Cayo Perico Heist",
+    "image": "../assets/img/vehicles/models/avisa.webp"
+  }
+]

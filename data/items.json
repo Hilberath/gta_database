@@ -1,0 +1,1607 @@
+[
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_dagger.webp",
+    "title": "Weapon_Dagger"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_bat.webp",
+    "title": "Weapon_Bat"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_bottle.webp",
+    "title": "Weapon_Bottle"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_crowbar.webp",
+    "title": "Weapon_Crowbar"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_flashlight.webp",
+    "title": "Weapon_Flashlight"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_golfclub.webp",
+    "title": "Weapon_Golfclub"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_hammer.webp",
+    "title": "Weapon_Hammer"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_hatchet.webp",
+    "title": "Weapon_Hatchet"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_knuckle.webp",
+    "title": "Weapon_Knuckle"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_knife.webp",
+    "title": "Weapon_Knife"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_machete.webp",
+    "title": "Weapon_Machete"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_switchblade.webp",
+    "title": "Weapon_Switchblade"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_nightstick.webp",
+    "title": "Weapon_Nightstick"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_wrench.webp",
+    "title": "Weapon_Wrench"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_battleaxe.webp",
+    "title": "Weapon_Battleaxe"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_poolcue.webp",
+    "title": "Weapon_Poolcue"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_briefcase.webp",
+    "title": "Weapon_Briefcase"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_briefcase_02.webp",
+    "title": "Weapon_Briefcase_02"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_garbagebag.webp",
+    "title": "Weapon_Garbagebag"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_handcuffs.webp",
+    "title": "Weapon_Handcuffs"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_bread.webp",
+    "title": "Weapon_Bread"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_stone_hatchet.webp",
+    "title": "Weapon_Stone_Hatchet"
+  },
+  {
+    "category": "Weapon_Melee",
+    "image": "../assets/img/items/models/weapon_candycane.webp",
+    "title": "Weapon_Candycane"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_pistol.webp",
+    "title": "Weapon_Pistol"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_pistol.webp",
+    "title": "Weapon_Pistol"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_pistol_mk2.webp",
+    "title": "Weapon_Pistol_Mk2"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_combatpistol.webp",
+    "title": "Weapon_Combatpistol"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_appistol.webp",
+    "title": "Weapon_Appistol"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_stungun.webp",
+    "title": "Weapon_Stungun"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_pistol50.webp",
+    "title": "Weapon_Pistol50"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_snspistol.webp",
+    "title": "Weapon_Snspistol"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_heavypistol.webp",
+    "title": "Weapon_Heavypistol"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_vintagepistol.webp",
+    "title": "Weapon_Vintagepistol"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_flaregun.webp",
+    "title": "Weapon_Flaregun"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_marksmanpistol.webp",
+    "title": "Weapon_Marksmanpistol"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_revolver.webp",
+    "title": "Weapon_Revolver"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_revolver_mk2.webp",
+    "title": "Weapon_Revolver_Mk2"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_doubleaction.webp",
+    "title": "Weapon_Doubleaction"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_snspistol_mk2.webp",
+    "title": "Weapon_Snspistol_Mk2"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_raypistol.webp",
+    "title": "Weapon_Raypistol"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_ceramicpistol.webp",
+    "title": "Weapon_Ceramicpistol"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_navyrevolver.webp",
+    "title": "Weapon_Navyrevolver"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_gadgetpistol.webp",
+    "title": "Weapon_Gadgetpistol"
+  },
+  {
+    "category": "Weapon_Handguns",
+    "image": "../assets/img/items/models/weapon_pistolxm3.webp",
+    "title": "Weapon_Pistolxm3"
+  },
+  {
+    "category": "Weapon_Submachine_Guns",
+    "image": "../assets/img/items/models/weapon_microsmg.webp",
+    "title": "Weapon_Microsmg"
+  },
+  {
+    "category": "Weapon_Submachine_Guns",
+    "image": "../assets/img/items/models/weapon_smg.webp",
+    "title": "Weapon_Smg"
+  },
+  {
+    "category": "Weapon_Submachine_Guns",
+    "image": "../assets/img/items/models/weapon_smg_mk2.webp",
+    "title": "Weapon_Smg_Mk2"
+  },
+  {
+    "category": "Weapon_Submachine_Guns",
+    "image": "../assets/img/items/models/weapon_assaultsmg.webp",
+    "title": "Weapon_Assaultsmg"
+  },
+  {
+    "category": "Weapon_Submachine_Guns",
+    "image": "../assets/img/items/models/weapon_combatpdw.webp",
+    "title": "Weapon_Combatpdw"
+  },
+  {
+    "category": "Weapon_Submachine_Guns",
+    "image": "../assets/img/items/models/weapon_machinepistol.webp",
+    "title": "Weapon_Machinepistol"
+  },
+  {
+    "category": "Weapon_Submachine_Guns",
+    "image": "../assets/img/items/models/weapon_minismg.webp",
+    "title": "Weapon_Minismg"
+  },
+  {
+    "category": "Weapon_Submachine_Guns",
+    "image": "../assets/img/items/models/weapon_raycarbine.webp",
+    "title": "Weapon_Raycarbine"
+  },
+  {
+    "category": "Weapon_Shotguns",
+    "image": "../assets/img/items/models/weapon_pumpshotgun.webp",
+    "title": "Weapon_Pumpshotgun"
+  },
+  {
+    "category": "Weapon_Shotguns",
+    "image": "../assets/img/items/models/weapon_sawnoffshotgun.webp",
+    "title": "Weapon_Sawnoffshotgun"
+  },
+  {
+    "category": "Weapon_Shotguns",
+    "image": "../assets/img/items/models/weapon_assaultshotgun.webp",
+    "title": "Weapon_Assaultshotgun"
+  },
+  {
+    "category": "Weapon_Shotguns",
+    "image": "../assets/img/items/models/weapon_bullpupshotgun.webp",
+    "title": "Weapon_Bullpupshotgun"
+  },
+  {
+    "category": "Weapon_Shotguns",
+    "image": "../assets/img/items/models/weapon_musket.webp",
+    "title": "Weapon_Musket"
+  },
+  {
+    "category": "Weapon_Shotguns",
+    "image": "../assets/img/items/models/weapon_heavyshotgun.webp",
+    "title": "Weapon_Heavyshotgun"
+  },
+  {
+    "category": "Weapon_Shotguns",
+    "image": "../assets/img/items/models/weapon_dbshotgun.webp",
+    "title": "Weapon_Dbshotgun"
+  },
+  {
+    "category": "Weapon_Shotguns",
+    "image": "../assets/img/items/models/weapon_autoshotgun.webp",
+    "title": "Weapon_Autoshotgun"
+  },
+  {
+    "category": "Weapon_Shotguns",
+    "image": "../assets/img/items/models/weapon_pumpshotgun_mk2.webp",
+    "title": "Weapon_Pumpshotgun_Mk2"
+  },
+  {
+    "category": "Weapon_Shotguns",
+    "image": "../assets/img/items/models/weapon_combatshotgun.webp",
+    "title": "Weapon_Combatshotgun"
+  },
+  {
+    "category": "Weapon_Assault_Rifles",
+    "image": "../assets/img/items/models/weapon_assaultrifle.webp",
+    "title": "Weapon_Assaultrifle"
+  },
+  {
+    "category": "Weapon_Assault_Rifles",
+    "image": "../assets/img/items/models/weapon_assaultrifle_mk2.webp",
+    "title": "Weapon_Assaultrifle_Mk2"
+  },
+  {
+    "category": "Weapon_Assault_Rifles",
+    "image": "../assets/img/items/models/weapon_carbinerifle.webp",
+    "title": "Weapon_Carbinerifle"
+  },
+  {
+    "category": "Weapon_Assault_Rifles",
+    "image": "../assets/img/items/models/weapon_carbinerifle_mk2.webp",
+    "title": "Weapon_Carbinerifle_Mk2"
+  },
+  {
+    "category": "Weapon_Assault_Rifles",
+    "image": "../assets/img/items/models/weapon_advancedrifle.webp",
+    "title": "Weapon_Advancedrifle"
+  },
+  {
+    "category": "Weapon_Assault_Rifles",
+    "image": "../assets/img/items/models/weapon_specialcarbine.webp",
+    "title": "Weapon_Specialcarbine"
+  },
+  {
+    "category": "Weapon_Assault_Rifles",
+    "image": "../assets/img/items/models/weapon_bullpuprifle.webp",
+    "title": "Weapon_Bullpuprifle"
+  },
+  {
+    "category": "Weapon_Assault_Rifles",
+    "image": "../assets/img/items/models/weapon_compactrifle.webp",
+    "title": "Weapon_Compactrifle"
+  },
+  {
+    "category": "Weapon_Assault_Rifles",
+    "image": "../assets/img/items/models/weapon_specialcarbine_mk2.webp",
+    "title": "Weapon_Specialcarbine_Mk2"
+  },
+  {
+    "category": "Weapon_Assault_Rifles",
+    "image": "../assets/img/items/models/weapon_bullpuprifle_mk2.webp",
+    "title": "Weapon_Bullpuprifle_Mk2"
+  },
+  {
+    "category": "Weapon_Assault_Rifles",
+    "image": "../assets/img/items/models/weapon_militaryrifle.webp",
+    "title": "Weapon_Militaryrifle"
+  },
+  {
+    "category": "Weapon_Light_Machine_Guns",
+    "image": "../assets/img/items/models/weapon_mg.webp",
+    "title": "Weapon_Mg"
+  },
+  {
+    "category": "Weapon_Light_Machine_Guns",
+    "image": "../assets/img/items/models/weapon_combatmg.webp",
+    "title": "Weapon_Combatmg"
+  },
+  {
+    "category": "Weapon_Light_Machine_Guns",
+    "image": "../assets/img/items/models/weapon_gusenberg.webp",
+    "title": "Weapon_Gusenberg"
+  },
+  {
+    "category": "Weapon_Light_Machine_Guns",
+    "image": "../assets/img/items/models/weapon_combatmg_mk2.webp",
+    "title": "Weapon_Combatmg_Mk2"
+  },
+  {
+    "category": "Weapon_Sniper_Rifles",
+    "image": "../assets/img/items/models/weapon_sniperrifle.webp",
+    "title": "Weapon_Sniperrifle"
+  },
+  {
+    "category": "Weapon_Sniper_Rifles",
+    "image": "../assets/img/items/models/weapon_heavysniper.webp",
+    "title": "Weapon_Heavysniper"
+  },
+  {
+    "category": "Weapon_Sniper_Rifles",
+    "image": "../assets/img/items/models/weapon_marksmanrifle.webp",
+    "title": "Weapon_Marksmanrifle"
+  },
+  {
+    "category": "Weapon_Sniper_Rifles",
+    "image": "../assets/img/items/models/weapon_remotesniper.webp",
+    "title": "Weapon_Remotesniper"
+  },
+  {
+    "category": "Weapon_Sniper_Rifles",
+    "image": "../assets/img/items/models/weapon_heavysniper_mk2.webp",
+    "title": "Weapon_Heavysniper_Mk2"
+  },
+  {
+    "category": "Weapon_Sniper_Rifles",
+    "image": "../assets/img/items/models/weapon_marksmanrifle_mk2.webp",
+    "title": "Weapon_Marksmanrifle_Mk2"
+  },
+  {
+    "category": "Weapon_Heavy_Weapons",
+    "image": "../assets/img/items/models/weapon_rpg.webp",
+    "title": "Weapon_Rpg"
+  },
+  {
+    "category": "Weapon_Heavy_Weapons",
+    "image": "../assets/img/items/models/weapon_grenadelauncher.webp",
+    "title": "Weapon_Grenadelauncher"
+  },
+  {
+    "category": "Weapon_Heavy_Weapons",
+    "image": "../assets/img/items/models/weapon_grenadelauncher_smoke.webp",
+    "title": "Weapon_Grenadelauncher_Smoke"
+  },
+  {
+    "category": "Weapon_Heavy_Weapons",
+    "image": "../assets/img/items/models/weapon_minigun.webp",
+    "title": "Weapon_Minigun"
+  },
+  {
+    "category": "Weapon_Heavy_Weapons",
+    "image": "../assets/img/items/models/weapon_firework.webp",
+    "title": "Weapon_Firework"
+  },
+  {
+    "category": "Weapon_Heavy_Weapons",
+    "image": "../assets/img/items/models/weapon_railgun.webp",
+    "title": "Weapon_Railgun"
+  },
+  {
+    "category": "Weapon_Heavy_Weapons",
+    "image": "../assets/img/items/models/weapon_railgunxm3.webp",
+    "title": "Weapon_Railgunxm3"
+  },
+  {
+    "category": "Weapon_Heavy_Weapons",
+    "image": "../assets/img/items/models/weapon_hominglauncher.webp",
+    "title": "Weapon_Hominglauncher"
+  },
+  {
+    "category": "Weapon_Heavy_Weapons",
+    "image": "../assets/img/items/models/weapon_compactlauncher.webp",
+    "title": "Weapon_Compactlauncher"
+  },
+  {
+    "category": "Weapon_Heavy_Weapons",
+    "image": "../assets/img/items/models/weapon_rayminigun.webp",
+    "title": "Weapon_Rayminigun"
+  },
+  {
+    "category": "Weapon_Throwables",
+    "image": "../assets/img/items/models/weapon_grenade.webp",
+    "title": "Weapon_Grenade"
+  },
+  {
+    "category": "Weapon_Throwables",
+    "image": "../assets/img/items/models/weapon_bzgas.webp",
+    "title": "Weapon_Bzgas"
+  },
+  {
+    "category": "Weapon_Throwables",
+    "image": "../assets/img/items/models/weapon_molotov.webp",
+    "title": "Weapon_Molotov"
+  },
+  {
+    "category": "Weapon_Throwables",
+    "image": "../assets/img/items/models/weapon_stickybomb.webp",
+    "title": "Weapon_Stickybomb"
+  },
+  {
+    "category": "Weapon_Throwables",
+    "image": "../assets/img/items/models/weapon_proxmine.webp",
+    "title": "Weapon_Proxmine"
+  },
+  {
+    "category": "Weapon_Throwables",
+    "image": "../assets/img/items/models/weapon_snowball.webp",
+    "title": "Weapon_Snowball"
+  },
+  {
+    "category": "Weapon_Throwables",
+    "image": "../assets/img/items/models/weapon_pipebomb.webp",
+    "title": "Weapon_Pipebomb"
+  },
+  {
+    "category": "Weapon_Throwables",
+    "image": "../assets/img/items/models/weapon_ball.webp",
+    "title": "Weapon_Ball"
+  },
+  {
+    "category": "Weapon_Throwables",
+    "image": "../assets/img/items/models/weapon_smokegrenade.webp",
+    "title": "Weapon_Smokegrenade"
+  },
+  {
+    "category": "Weapon_Throwables",
+    "image": "../assets/img/items/models/weapon_flare.webp",
+    "title": "Weapon_Flare"
+  },
+  {
+    "category": "Weapon_Miscellaneous",
+    "image": "../assets/img/items/models/weapon_petrolcan.webp",
+    "title": "Weapon_Petrolcan"
+  },
+  {
+    "category": "Weapon_Miscellaneous",
+    "image": "../assets/img/items/models/weapon_fireextinguisher.webp",
+    "title": "Weapon_Fireextinguisher"
+  },
+  {
+    "category": "Weapon_Miscellaneous",
+    "image": "../assets/img/items/models/weapon_hazardcan.webp",
+    "title": "Weapon_Hazardcan"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/clip_attachment.webp",
+    "title": "Clip_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/drum_attachment.webp",
+    "title": "Drum_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/flashlight_attachment.webp",
+    "title": "Flashlight_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/suppressor_attachment.webp",
+    "title": "Suppressor_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/smallscope_attachment.webp",
+    "title": "Smallscope_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/medscope_attachment.webp",
+    "title": "Medscope_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/largescope_attachment.webp",
+    "title": "Largescope_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/holoscope_attachment.webp",
+    "title": "Holoscope_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/advscope_attachment.webp",
+    "title": "Advscope_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/nvscope_attachment.webp",
+    "title": "Nvscope_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/thermalscope_attachment.webp",
+    "title": "Thermalscope_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/flat_muzzle_brake.webp",
+    "title": "Flat_Muzzle_Brake"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/tactical_muzzle_brake.webp",
+    "title": "Tactical_Muzzle_Brake"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/fat_end_muzzle_brake.webp",
+    "title": "Fat_End_Muzzle_Brake"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/precision_muzzle_brake.webp",
+    "title": "Precision_Muzzle_Brake"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/heavy_duty_muzzle_brake.webp",
+    "title": "Heavy_Duty_Muzzle_Brake"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/slanted_muzzle_brake.webp",
+    "title": "Slanted_Muzzle_Brake"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/split_end_muzzle_brake.webp",
+    "title": "Split_End_Muzzle_Brake"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/squared_muzzle_brake.webp",
+    "title": "Squared_Muzzle_Brake"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/bellend_muzzle_brake.webp",
+    "title": "Bellend_Muzzle_Brake"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/barrel_attachment.webp",
+    "title": "Barrel_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/grip_attachment.webp",
+    "title": "Grip_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/comp_attachment.webp",
+    "title": "Comp_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/luxuryfinish_attachment.webp",
+    "title": "Luxuryfinish_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/digicamo_attachment.webp",
+    "title": "Digicamo_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/brushcamo_attachment.webp",
+    "title": "Brushcamo_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/woodcamo_attachment.webp",
+    "title": "Woodcamo_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/skullcamo_attachment.webp",
+    "title": "Skullcamo_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/sessantacamo_attachment.webp",
+    "title": "Sessantacamo_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/perseuscamo_attachment.webp",
+    "title": "Perseuscamo_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/leopardcamo_attachment.webp",
+    "title": "Leopardcamo_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/zebracamo_attachment.webp",
+    "title": "Zebracamo_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/geocamo_attachment.webp",
+    "title": "Geocamo_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/boomcamo_attachment.webp",
+    "title": "Boomcamo_Attachment"
+  },
+  {
+    "category": "Weapon_Attachments",
+    "image": "../assets/img/items/models/patriotcamo_attachment.webp",
+    "title": "Patriotcamo_Attachment"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_plat.webp",
+    "title": "Weapontint_0"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_green.webp",
+    "title": "Weapontint_1"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_gold.webp",
+    "title": "Weapontint_2"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_pink.webp",
+    "title": "Weapontint_3"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_army.webp",
+    "title": "Weapontint_4"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_lspd.webp",
+    "title": "Weapontint_5"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_plat.webp",
+    "title": "Weapontint_6"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_7"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_0"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_1"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_2"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_3"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_4"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_5"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_6"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_7"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_8"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_9"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_10"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_11"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_12"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_13"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_14"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_15"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_16"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_17"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_18"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_19"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_20"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_21"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_22"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_23"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_24"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_25"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_26"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_27"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_28"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_29"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_30"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_31"
+  },
+  {
+    "category": "Weapon_Tints",
+    "image": "../assets/img/items/models/weapontint_black.webp",
+    "title": "Weapontint_Mk2_32"
+  },
+  {
+    "category": "Weapon_Ammo",
+    "image": "../assets/img/items/models/pistol_ammo.webp",
+    "title": "Pistol_Ammo"
+  },
+  {
+    "category": "Weapon_Ammo",
+    "image": "../assets/img/items/models/rifle_ammo.webp",
+    "title": "Rifle_Ammo"
+  },
+  {
+    "category": "Weapon_Ammo",
+    "image": "../assets/img/items/models/smg_ammo.webp",
+    "title": "Smg_Ammo"
+  },
+  {
+    "category": "Weapon_Ammo",
+    "image": "../assets/img/items/models/shotgun_ammo.webp",
+    "title": "Shotgun_Ammo"
+  },
+  {
+    "category": "Weapon_Ammo",
+    "image": "../assets/img/items/models/mg_ammo.webp",
+    "title": "Mg_Ammo"
+  },
+  {
+    "category": "Weapon_Ammo",
+    "image": "../assets/img/items/models/rifle_ammo.webp",
+    "title": "Snp_Ammo"
+  },
+  {
+    "category": "Weapon_Ammo",
+    "image": "../assets/img/items/models/emp_ammo.webp",
+    "title": "Emp_Ammo"
+  },
+  {
+    "category": "Cards",
+    "image": "../assets/img/items/models/id_card.webp",
+    "title": "Id_Card"
+  },
+  {
+    "category": "Cards",
+    "image": "../assets/img/items/models/driver_license.webp",
+    "title": "Driver_License"
+  },
+  {
+    "category": "Cards",
+    "image": "../assets/img/items/models/lawyerpass.webp",
+    "title": "Lawyerpass"
+  },
+  {
+    "category": "Cards",
+    "image": "../assets/img/items/models/weapon_license.webp",
+    "title": "Weaponlicense"
+  },
+  {
+    "category": "Cards",
+    "image": "../assets/img/items/models/bank_card.webp",
+    "title": "Bank_Card"
+  },
+  {
+    "category": "Cards",
+    "image": "../assets/img/items/models/security_card_01.webp",
+    "title": "Security_Card_01"
+  },
+  {
+    "category": "Cards",
+    "image": "../assets/img/items/models/security_card_02.webp",
+    "title": "Security_Card_02"
+  },
+  {
+    "category": "Food",
+    "image": "../assets/img/items/models/tosti.webp",
+    "title": "Tosti"
+  },
+  {
+    "category": "Food",
+    "image": "../assets/img/items/models/twerks_candy.webp",
+    "title": "Twerks_Candy"
+  },
+  {
+    "category": "Food",
+    "image": "../assets/img/items/models/snikkel_candy.webp",
+    "title": "Snikkel_Candy"
+  },
+  {
+    "category": "Food",
+    "image": "../assets/img/items/models/sandwich.webp",
+    "title": "Sandwich"
+  },
+  {
+    "category": "Drink",
+    "image": "../assets/img/items/models/water_bottle.webp",
+    "title": "Water_Bottle"
+  },
+  {
+    "category": "Drink",
+    "image": "../assets/img/items/models/coffee.webp",
+    "title": "Coffee"
+  },
+  {
+    "category": "Drink",
+    "image": "../assets/img/items/models/cola.webp",
+    "title": "Kurkakola"
+  },
+  {
+    "category": "Alcohol",
+    "image": "../assets/img/items/models/beer.webp",
+    "title": "Beer"
+  },
+  {
+    "category": "Alcohol",
+    "image": "../assets/img/items/models/whiskey.webp",
+    "title": "Whiskey"
+  },
+  {
+    "category": "Alcohol",
+    "image": "../assets/img/items/models/vodka.webp",
+    "title": "Vodka"
+  },
+  {
+    "category": "Alcohol",
+    "image": "../assets/img/items/models/grape.webp",
+    "title": "Grape"
+  },
+  {
+    "category": "Alcohol",
+    "image": "../assets/img/items/models/wine.webp",
+    "title": "Wine"
+  },
+  {
+    "category": "Alcohol",
+    "image": "../assets/img/items/models/grapejuice.webp",
+    "title": "Grapejuice"
+  },
+  {
+    "category": "Drugs",
+    "image": "../assets/img/items/models/joint.webp",
+    "title": "Joint"
+  },
+  {
+    "category": "Drugs",
+    "image": "../assets/img/items/models/cocaine_baggy.webp",
+    "title": "Cokebaggy"
+  },
+  {
+    "category": "Drugs",
+    "image": "../assets/img/items/models/crack_baggy.webp",
+    "title": "Crack_Baggy"
+  },
+  {
+    "category": "Drugs",
+    "image": "../assets/img/items/models/xtc_baggy.webp",
+    "title": "Xtcbaggy"
+  },
+  {
+    "category": "Drugs",
+    "image": "../assets/img/items/models/coke_brick.webp",
+    "title": "Coke_Brick"
+  },
+  {
+    "category": "Drugs",
+    "image": "../assets/img/items/models/weed_brick.webp",
+    "title": "Weed_Brick"
+  },
+  {
+    "category": "Drugs",
+    "image": "../assets/img/items/models/coke_small_brick.webp",
+    "title": "Coke_Small_Brick"
+  },
+  {
+    "category": "Drugs",
+    "image": "../assets/img/items/models/oxy.webp",
+    "title": "Oxy"
+  },
+  {
+    "category": "Drugs",
+    "image": "../assets/img/items/models/meth.webp",
+    "title": "Meth"
+  },
+  {
+    "category": "Drugs",
+    "image": "../assets/img/items/models/rolling_paper.webp",
+    "title": "Rolling_Paper"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_baggy.webp",
+    "title": "Weed_Whitewidow"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_baggy.webp",
+    "title": "Weed_Skunk"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_baggy.webp",
+    "title": "Weed_Purplehaze"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_baggy.webp",
+    "title": "Weed_Ogkush"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_baggy.webp",
+    "title": "Weed_Amnesia"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_baggy.webp",
+    "title": "Weed_Ak47"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_seed.webp",
+    "title": "Weed_Whitewidow_Seed"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_seed.webp",
+    "title": "Weed_Skunk_Seed"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_seed.webp",
+    "title": "Weed_Purplehaze_Seed"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_seed.webp",
+    "title": "Weed_Ogkush_Seed"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_seed.webp",
+    "title": "Weed_Amnesia_Seed"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_seed.webp",
+    "title": "Weed_Ak47_Seed"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_baggy_empty.webp",
+    "title": "Empty_Weed_Bag"
+  },
+  {
+    "category": "Seed_and_Weed",
+    "image": "../assets/img/items/models/weed_nutrition.webp",
+    "title": "Weed_Nutrition"
+  },
+  {
+    "category": "Material",
+    "image": "../assets/img/items/models/plastic.webp",
+    "title": "Plastic"
+  },
+  {
+    "category": "Material",
+    "image": "../assets/img/items/models/metalscrap.webp",
+    "title": "Metalscrap"
+  },
+  {
+    "category": "Material",
+    "image": "../assets/img/items/models/copper.webp",
+    "title": "Copper"
+  },
+  {
+    "category": "Material",
+    "image": "../assets/img/items/models/aluminum.webp",
+    "title": "Aluminum"
+  },
+  {
+    "category": "Material",
+    "image": "../assets/img/items/models/aluminumoxide.webp",
+    "title": "Aluminumoxide"
+  },
+  {
+    "category": "Material",
+    "image": "../assets/img/items/models/iron.webp",
+    "title": "Iron"
+  },
+  {
+    "category": "Material",
+    "image": "../assets/img/items/models/ironoxide.webp",
+    "title": "Ironoxide"
+  },
+  {
+    "category": "Material",
+    "image": "../assets/img/items/models/steel.webp",
+    "title": "Steel"
+  },
+  {
+    "category": "Material",
+    "image": "../assets/img/items/models/rubber.webp",
+    "title": "Rubber"
+  },
+  {
+    "category": "Material",
+    "image": "../assets/img/items/models/glass.webp",
+    "title": "Glass"
+  },
+  {
+    "category": "Tools",
+    "image": "../assets/img/items/models/lockpick.webp",
+    "title": "Lockpick"
+  },
+  {
+    "category": "Tools",
+    "image": "../assets/img/items/models/advancedlockpick.webp",
+    "title": "Advancedlockpick"
+  },
+  {
+    "category": "Tools",
+    "image": "../assets/img/items/models/electronickit.webp",
+    "title": "Electronickit"
+  },
+  {
+    "category": "Tools",
+    "image": "../assets/img/items/models/usb_device.webp",
+    "title": "Gatecrack"
+  },
+  {
+    "category": "Tools",
+    "image": "../assets/img/items/models/thermite.webp",
+    "title": "Thermite"
+  },
+  {
+    "category": "Tools",
+    "image": "../assets/img/items/models/trojan_usb.webp",
+    "title": "Trojan_Usb"
+  },
+  {
+    "category": "Tools",
+    "image": "../assets/img/items/models/screwdriverset.webp",
+    "title": "Screwdriverset"
+  },
+  {
+    "category": "Tools",
+    "image": "../assets/img/items/models/drill.webp",
+    "title": "Drill"
+  },
+  {
+    "category": "Vehicle_Tools",
+    "image": "../assets/img/items/models/nitrous.webp",
+    "title": "Nitrous"
+  },
+  {
+    "category": "Vehicle_Tools",
+    "image": "../assets/img/items/models/repairkit.webp",
+    "title": "Repairkit"
+  },
+  {
+    "category": "Vehicle_Tools",
+    "image": "../assets/img/items/models/advancedkit.webp",
+    "title": "Advancedrepairkit"
+  },
+  {
+    "category": "Vehicle_Tools",
+    "image": "../assets/img/items/models/cleaningkit.webp",
+    "title": "Cleaningkit"
+  },
+  {
+    "category": "Vehicle_Tools",
+    "image": "../assets/img/items/models/tunerchip.webp",
+    "title": "Tunerlaptop"
+  },
+  {
+    "category": "Vehicle_Tools",
+    "image": "../assets/img/items/models/harness.webp",
+    "title": "Harness"
+  },
+  {
+    "category": "Vehicle_Tools",
+    "image": "../assets/img/items/models/jerry_can.webp",
+    "title": "Jerry_Can"
+  },
+  {
+    "category": "Vehicle_Tools",
+    "image": "../assets/img/items/models/tirerepairkit.webp",
+    "title": "Tirerepairkit"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_toolbox.webp",
+    "title": "Veh_Toolbox"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_armor.webp",
+    "title": "Veh_Armor"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_brakes.webp",
+    "title": "Veh_Brakes"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_engine.webp",
+    "title": "Veh_Engine"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_suspension.webp",
+    "title": "Veh_Suspension"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_transmission.webp",
+    "title": "Veh_Transmission"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_turbo.webp",
+    "title": "Veh_Turbo"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_interior.webp",
+    "title": "Veh_Interior"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_exterior.webp",
+    "title": "Veh_Exterior"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_wheels.webp",
+    "title": "Veh_Wheels"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_neons.webp",
+    "title": "Veh_Neons"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_xenons.webp",
+    "title": "Veh_Xenons"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_tint.webp",
+    "title": "Veh_Tint"
+  },
+  {
+    "category": "Mechanic_Parts",
+    "image": "../assets/img/items/models/veh_plates.webp",
+    "title": "Veh_Plates"
+  },
+  {
+    "category": "Medication",
+    "image": "../assets/img/items/models/firstaid.webp",
+    "title": "Firstaid"
+  },
+  {
+    "category": "Medication",
+    "image": "../assets/img/items/models/bandage.webp",
+    "title": "Bandage"
+  },
+  {
+    "category": "Medication",
+    "image": "../assets/img/items/models/ifaks.webp",
+    "title": "Ifaks"
+  },
+  {
+    "category": "Medication",
+    "image": "../assets/img/items/models/painkillers.webp",
+    "title": "Painkillers"
+  },
+  {
+    "category": "Medication",
+    "image": "../assets/img/items/models/walkstick.webp",
+    "title": "Walkstick"
+  },
+  {
+    "category": "Communication",
+    "image": "../assets/img/items/models/phone.webp",
+    "title": "Phone"
+  },
+  {
+    "category": "Communication",
+    "image": "../assets/img/items/models/radio.webp",
+    "title": "Radio"
+  },
+  {
+    "category": "Communication",
+    "image": "../assets/img/items/models/iphone.webp",
+    "title": "Iphone"
+  },
+  {
+    "category": "Communication",
+    "image": "../assets/img/items/models/samsungphone.webp",
+    "title": "Samsungphone"
+  },
+  {
+    "category": "Communication",
+    "image": "../assets/img/items/models/laptop.webp",
+    "title": "Laptop"
+  },
+  {
+    "category": "Communication",
+    "image": "../assets/img/items/models/tablet.webp",
+    "title": "Tablet"
+  },
+  {
+    "category": "Communication",
+    "image": "../assets/img/items/models/fitbit.webp",
+    "title": "Fitbit"
+  },
+  {
+    "category": "Communication",
+    "image": "../assets/img/items/models/radioscanner.webp",
+    "title": "Radioscanner"
+  },
+  {
+    "category": "Communication",
+    "image": "../assets/img/items/models/pinger.webp",
+    "title": "Pinger"
+  },
+  {
+    "category": "Communication",
+    "image": "../assets/img/items/models/cryptostick.webp",
+    "title": "Cryptostick"
+  },
+  {
+    "category": "Theft_and_Jewelry",
+    "image": "../assets/img/items/models/rolex.webp",
+    "title": "Rolex"
+  },
+  {
+    "category": "Theft_and_Jewelry",
+    "image": "../assets/img/items/models/diamond_ring.webp",
+    "title": "Diamond_Ring"
+  },
+  {
+    "category": "Theft_and_Jewelry",
+    "image": "../assets/img/items/models/diamond.webp",
+    "title": "Diamond"
+  },
+  {
+    "category": "Theft_and_Jewelry",
+    "image": "../assets/img/items/models/goldchain.webp",
+    "title": "Goldchain"
+  },
+  {
+    "category": "Theft_and_Jewelry",
+    "image": "../assets/img/items/models/10kgoldchain.webp",
+    "title": "Tenkgoldchain"
+  },
+  {
+    "category": "Theft_and_Jewelry",
+    "image": "../assets/img/items/models/goldbar.webp",
+    "title": "Goldbar"
+  },
+  {
+    "category": "Cops_Tools",
+    "image": "../assets/img/items/models/armor.webp",
+    "title": "Armor"
+  },
+  {
+    "category": "Cops_Tools",
+    "image": "../assets/img/items/models/armor.webp",
+    "title": "Heavyarmor"
+  },
+  {
+    "category": "Cops_Tools",
+    "image": "../assets/img/items/models/handcuffs.webp",
+    "title": "Handcuffs"
+  },
+  {
+    "category": "Cops_Tools",
+    "image": "../assets/img/items/models/police_stormram.webp",
+    "title": "Police_Stormram"
+  },
+  {
+    "category": "Cops_Tools",
+    "image": "../assets/img/items/models/evidence.webp",
+    "title": "Empty_Evidence_Bag"
+  },
+  {
+    "category": "Cops_Tools",
+    "image": "../assets/img/items/models/evidence.webp",
+    "title": "Filled_Evidence_Bag"
+  },
+  {
+    "category": "Firework_Tools",
+    "image": "../assets/img/items/models/firework1.webp",
+    "title": "Firework1"
+  },
+  {
+    "category": "Firework_Tools",
+    "image": "../assets/img/items/models/firework2.webp",
+    "title": "Firework2"
+  },
+  {
+    "category": "Firework_Tools",
+    "image": "../assets/img/items/models/firework3.webp",
+    "title": "Firework3"
+  },
+  {
+    "category": "Firework_Tools",
+    "image": "../assets/img/items/models/firework4.webp",
+    "title": "Firework4"
+  },
+  {
+    "category": "Sea_Tools",
+    "image": "../assets/img/items/models/dendrogyra_coral.webp",
+    "title": "Dendrogyra_Coral"
+  },
+  {
+    "category": "Sea_Tools",
+    "image": "../assets/img/items/models/antipatharia_coral.webp",
+    "title": "Antipatharia_Coral"
+  },
+  {
+    "category": "Sea_Tools",
+    "image": "../assets/img/items/models/diving_gear.webp",
+    "title": "Diving_Gear"
+  },
+  {
+    "category": "Sea_Tools",
+    "image": "../assets/img/items/models/diving_tube.webp",
+    "title": "Diving_Fill"
+  },
+  {
+    "category": "Other_Tools",
+    "image": "../assets/img/items/models/casinochips.webp",
+    "title": "Casinochips"
+  },
+  {
+    "category": "Other_Tools",
+    "image": "../assets/img/items/models/stickynote.webp",
+    "title": "Stickynote"
+  },
+  {
+    "category": "Other_Tools",
+    "image": "../assets/img/items/models/moneybag.webp",
+    "title": "Moneybag"
+  },
+  {
+    "category": "Other_Tools",
+    "image": "../assets/img/items/models/parachute.webp",
+    "title": "Parachute"
+  },
+  {
+    "category": "Other_Tools",
+    "image": "../assets/img/items/models/binoculars.webp",
+    "title": "Binoculars"
+  },
+  {
+    "category": "Other_Tools",
+    "image": "../assets/img/items/models/lighter.webp",
+    "title": "Lighter"
+  },
+  {
+    "category": "Other_Tools",
+    "image": "../assets/img/items/models/certificate.webp",
+    "title": "Certificate"
+  },
+  {
+    "category": "Other_Tools",
+    "image": "../assets/img/items/models/markedbills.webp",
+    "title": "Markedbills"
+  },
+  {
+    "category": "Other_Tools",
+    "image": "../assets/img/items/models/labkey.webp",
+    "title": "Labkey"
+  },
+  {
+    "category": "Other_Tools",
+    "image": "../assets/img/items/models/printerdocument.webp",
+    "title": "Printerdocument"
+  },
+  {
+    "category": "Other_Tools",
+    "image": "../assets/img/items/models/newscam.webp",
+    "title": "Newscam"
+  },
+  {
+    "category": "Other_Tools",
+    "image": "../assets/img/items/models/newsmic.webp",
+    "title": "Newsmic"
+  },
+  {
+    "category": "Other_Tools",
+    "image": "../assets/img/items/models/newsbmic.webp",
+    "title": "Newsbmic"
+  }
+]

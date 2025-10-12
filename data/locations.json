@@ -1,0 +1,786 @@
+[
+  {
+    "category": "Airport",
+    "image": "../assets/img/locations/models/Los_Santos_International_Airport.webp",
+    "title": "Los Santos International Airport",
+    "district": "Los Santos International Airport",
+    "coordinates": "-1035.0593, -2733.6265, 20.1641"
+  },
+  {
+    "category": "Police_Department",
+    "image": "../assets/img/locations/models/PDMissionRow.webp",
+    "title": "Mission Row Police Department",
+    "district": "Mission Row, Downtown",
+    "coordinates": "413.9604, -979.5165, 29.4315"
+  },
+  {
+    "category": "Police_Department",
+    "image": "../assets/img/locations/models/PDVinewood.webp",
+    "title": "Vinewood Police Department",
+    "district": "Hawick, Vinewood",
+    "coordinates": "658.2989, -14.7033, 83.2498"
+  },
+  {
+    "category": "Police_Department",
+    "image": "../assets/img/locations/models/PDLaMesa.webp",
+    "title": "LaMesa Police Department",
+    "district": "La Mesa, East Los Santos",
+    "coordinates": "815.3011, -1290, 26.2806"
+  },
+  {
+    "category": "Police_Department",
+    "image": "../assets/img/locations/models/PDVespucci.webp",
+    "title": "Vespucci Police Department",
+    "district": "Vespucci Canals, Vespucci",
+    "coordinates": "-1092.5275, -793.8198, 19.0688"
+  },
+  {
+    "category": "Police_Department",
+    "image": "../assets/img/locations/models/PDDelPerro.webp",
+    "title": "Del PerroPolice Department",
+    "district": "Del Perro Beach, Del Perro",
+    "coordinates": "-1629.8374, -1008.3824, 13.0872"
+  },
+  {
+    "category": "Police_Department",
+    "image": "../assets/img/locations/models/PDRockford.webp",
+    "title": "Rockford Police Department",
+    "district": "Rockford Hills",
+    "coordinates": "-554.9275, -141.956, 38.4462"
+  },
+  {
+    "category": "Police_Department",
+    "image": "../assets/img/locations/models/PDDavis.webp",
+    "title": "Davis Police Department",
+    "district": "Davis, South Los Santos",
+    "coordinates": "368.5978, -1575.0725, 29.2124"
+  },
+  {
+    "category": "Police_Department",
+    "image": "../assets/img/locations/models/PDSandy.webp",
+    "title": "Sandy Shores Police Department",
+    "district": "Sandy Shores",
+    "coordinates": "1859.8154, 3673.9912, 33.6776"
+  },
+  {
+    "category": "Police_Department",
+    "image": "../assets/img/locations/models/PDPaleto.webp",
+    "title": "Paleto Bay Police Department",
+    "district": "Paleto Bay",
+    "coordinates": "-427.0681, 6029.71, 31.4872"
+  },
+  {
+    "category": "Medical_Department",
+    "image": "../assets/img/locations/models/MDCentral.webp",
+    "title": "Central Los Santos Medical Center",
+    "district": "Strawberry, South Los Santos",
+    "coordinates": "313.9253, -1378.2858, 31.9253"
+  },
+  {
+    "category": "Medical_Department",
+    "image": "../assets/img/locations/models/MDPillbox.webp",
+    "title": "Pillbox Hill Medical Center",
+    "district": "Pillbox Hill, Downtown",
+    "coordinates": "282.567, -577.0813, 43.1809"
+  },
+  {
+    "category": "Medical_Department",
+    "image": "../assets/img/locations/models/MDMountZonah.webp",
+    "title": "Mount Zonah Medical Center",
+    "district": "Rockford Hills",
+    "coordinates": "-498.356, -286.9187, 35.5311"
+  },
+  {
+    "category": "Medical_Department",
+    "image": "../assets/img/locations/models/MDElBurro.webp",
+    "title": "St Fiacre Hospital",
+    "district": "El Burro Heights, East Los Santos",
+    "coordinates": "1158.9495, -1452.6593, 34.6886"
+  },
+  {
+    "category": "Medical_Department",
+    "image": "../assets/img/locations/models/MDEclipse.webp",
+    "title": "Eclipse Medical Tower",
+    "district": "West Vinewood, Vinewood",
+    "coordinates": "-676.8923, 294.4352, 82.0366"
+  },
+  {
+    "category": "Medical_Department",
+    "image": "../assets/img/locations/models/MDOceans.webp",
+    "title": "Oceans Medical Center",
+    "district": "Del Perro",
+    "coordinates": "-1872.6066, -384.6066, 47.8315"
+  },
+  {
+    "category": "Medical_Department",
+    "image": "../assets/img/locations/models/MDSandy.webp",
+    "title": "Sandy Shores Medical Center",
+    "district": "Sandy Shores",
+    "coordinates": "-1872.6066, -384.6066, 47.8315"
+  },
+  {
+    "category": "Medical_Department",
+    "image": "../assets/img/locations/models/MDPaleto.webp",
+    "title": "The Bay Care Center",
+    "district": "Paleto Bay",
+    "coordinates": "-232.8, 6313.4243, 31.4535"
+  },
+  {
+    "category": "Fire_Department",
+    "image": "../assets/img/locations/models/FDRockford.webp",
+    "title": "Rockford Fire Department",
+    "district": "Rockford Hills",
+    "coordinates": "-647.0242, -128.3077, 37.8228"
+  },
+  {
+    "category": "Fire_Department",
+    "image": "../assets/img/locations/models/FDDavis.webp",
+    "title": "Davis Fire Department",
+    "district": "Davis, South Los Santos",
+    "coordinates": "212.8484, -1630.1802, 29.2631"
+  },
+  {
+    "category": "Fire_Department",
+    "image": "../assets/img/locations/models/FDElBurro.webp",
+    "title": "St Fiacre Fire Station",
+    "district": "El Burro Heights, East Los Santos",
+    "coordinates": "1202.2153, -1452.145, 35.0088"
+  },
+  {
+    "category": "Fire_Department",
+    "image": "../assets/img/locations/models/FDSandy.webp",
+    "title": "Sandy Shores Fire Station",
+    "district": "Sandy Shores",
+    "coordinates": "1696.0088, 3578.0308, 35.5143"
+  },
+  {
+    "category": "Fire_Department",
+    "image": "../assets/img/locations/models/FDPaleto.webp",
+    "title": "Blaine County Fire Station",
+    "district": "Paleto Bay",
+    "coordinates": "-392.1099, 6131.0244, 31.3693"
+  },
+  {
+    "category": "State",
+    "image": "../assets/img/locations/models/DoJ.webp",
+    "title": "Department of Justice",
+    "district": "Rockford Hills",
+    "coordinates": "-508.4572, -257.0374, 35.5985"
+  },
+  {
+    "category": "State",
+    "image": "../assets/img/locations/models/StatePrison.webp",
+    "title": "State Prison Bolingbroke Penitentiary",
+    "district": "Bolingbroke Penitentiary, Grand Senora Desert",
+    "coordinates": "1854.1846, 2586.3428, 45.6578"
+  },
+  {
+    "category": "State",
+    "image": "../assets/img/locations/models/Cityhall1.webp",
+    "title": "Cityhall",
+    "district": "Little Seoul",
+    "coordinates": "-551.6967, -644.9407, 33.2227"
+  },
+  {
+    "category": "State",
+    "image": "../assets/img/locations/models/Cityhall2.webp",
+    "title": "Cityhall",
+    "district": "Del Perro",
+    "coordinates": "-1276.5626, -559.7011, 30.2234"
+  },
+  {
+    "category": "Company",
+    "image": "../assets/img/locations/models/Fahrschule1.webp",
+    "title": "Fahrschule",
+    "district": "Strawberry, South Los Santos",
+    "coordinates": "223.3978, -1395.1516, 30.5773"
+  },
+  {
+    "category": "Company",
+    "image": "../assets/img/locations/models/Diamond.webp",
+    "title": "Diamond Casino and Resort",
+    "district": "Mirror Park, East Los Santos",
+    "coordinates": "879.0857, 30.6198, 78.6161"
+  },
+  {
+    "category": "Company",
+    "image": "../assets/img/locations/models/TaxiDCC.webp",
+    "title": "Downtown Cab Co",
+    "district": "Mirror Park, East Los Santos",
+    "coordinates": "917.8945, -149.6439, 75.7686"
+  },
+  {
+    "category": "Company",
+    "image": "../assets/img/locations/models/WeazelNews.webp",
+    "title": "Weazel News",
+    "district": "Little Seoul",
+    "coordinates": "-624.1846, -945.2308, 21.7649"
+  },
+  {
+    "category": "Company",
+    "image": "../assets/img/locations/models/Lifeinvader.webp",
+    "title": "Lifeinvader",
+    "district": "Rockford Hills",
+    "coordinates": "-1089.3099, -268.1011, 37.6879"
+  },
+  {
+    "category": "Company",
+    "image": "../assets/img/locations/models/Bahamas.webp",
+    "title": "Bahama Mamas",
+    "district": "Del Perro",
+    "coordinates": "-1390.8001, -583.7802, 30.2234"
+  },
+  {
+    "category": "Company",
+    "image": "../assets/img/locations/models/PDM.webp",
+    "title": "Premium Deluxe Motorsport",
+    "district": "Downtown",
+    "coordinates": "-73.8198, -1109.5516, 25.9436"
+  },
+  {
+    "category": "Company",
+    "image": "../assets/img/locations/models/Mosley.webp",
+    "title": "Mosley Auto Service",
+    "district": "South Los Santos",
+    "coordinates": "-26.6769, -1630.0483, 29.1956"
+  },
+  {
+    "category": "Company",
+    "image": "../assets/img/locations/models/Bennys.webp",
+    "title": "Bennys Original Motor Works",
+    "district": "South Los Santos",
+    "coordinates": "-206.3077, -1302.277, 31.285"
+  },
+  {
+    "category": "Company",
+    "image": "../assets/img/locations/models/LSC1.webp",
+    "title": "Los Santos Customs",
+    "district": "Rockford Hills",
+    "coordinates": "-379.0154, -122.9275, 38.682"
+  },
+  {
+    "category": "Company",
+    "image": "../assets/img/locations/models/LSC2.webp",
+    "title": "Los Santos Customs",
+    "district": "La Puerta",
+    "coordinates": "-1125.7715, -1988.9407, 13.1545"
+  },
+  {
+    "category": "Garage",
+    "image": "../assets/img/locations/models/2Garage.webp",
+    "title": "IPL 2Garage",
+    "district": "Unknown",
+    "coordinates": "173.2903, -1003.6, -99.6571"
+  },
+  {
+    "category": "Garage",
+    "image": "../assets/img/locations/models/6Garage.webp",
+    "title": "IPL 6Garage",
+    "district": "Unknown",
+    "coordinates": "197.8153, -1002.293, -99.6575"
+  },
+  {
+    "category": "Garage",
+    "image": "../assets/img/locations/models/10Garage.webp",
+    "title": "IPL 10Garage",
+    "district": "Unknown",
+    "coordinates": "229.9559, -981.7928, -99.6607"
+  },
+  {
+    "category": "Garage",
+    "image": "../assets/img/locations/models/MissionCarpark.webp",
+    "title": "IPL MissionCarpark",
+    "district": "Unknown",
+    "coordinates": "405.9228, -954.1149, -99.6627"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/LowEndApartment.webp",
+    "title": "IPL LowEndApartment",
+    "district": "Unknown",
+    "coordinates": "261.4586, -998.8196, -99.0086"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/4IntegrityWayApt28.webp",
+    "title": "IPL 4IntegrityWayApt28",
+    "district": "Unknown",
+    "coordinates": "-18.0786, -583.6725, 79.4657"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/4IntegrityWayApt30.webp",
+    "title": "IPL 4IntegrityWayApt30",
+    "district": "Unknown",
+    "coordinates": "-35.3128, -580.4199, 88.7122"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/DellPerroHeightsApt4.webp",
+    "title": "IPL DellPerroHeightsApt4",
+    "district": "Unknown",
+    "coordinates": "-1468.14, -541.815, 73.4442"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/DellPerroHeightsApt7.webp",
+    "title": "IPL DellPerroHeightsApt7",
+    "district": "Unknown",
+    "coordinates": "-1477.14, -538.7499, 55.5264"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/RichardMajesticApt2.webp",
+    "title": "IPL RichardMajesticApt2",
+    "district": "Unknown",
+    "coordinates": "-915.811, -379.432, 113.6748"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/TinselTowersApt42.webp",
+    "title": "IPL TinselTowersApt42",
+    "district": "Unknown",
+    "coordinates": "-614.86, 40.6783, 97.6001"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/EclipseTowersApt3.webp",
+    "title": "IPL EclipseTowersApt3",
+    "district": "Unknown",
+    "coordinates": "-773.407, 341.766, 211.397"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/3655WildOatsDrive.webp",
+    "title": "IPL 3655WildOatsDrive",
+    "district": "Unknown",
+    "coordinates": "-169.286, 486.4938, 137.4436"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/2044NorthConkerAve.webp",
+    "title": "IPL 2044NorthConkerAve",
+    "district": "Unknown",
+    "coordinates": "340.9412, 437.1798, 149.3925"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/2045NorthConkerAve.webp",
+    "title": "IPL 2045NorthConkerAve",
+    "district": "Unknown",
+    "coordinates": "373.023, 416.105, 145.7006"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/2862HillcrestAve.webp",
+    "title": "IPL 2862HillcrestAve",
+    "district": "Unknown",
+    "coordinates": "-676.127, 588.612, 145.1698"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/2868HillcrestAve.webp",
+    "title": "IPL 2868HillcrestAve",
+    "district": "Unknown",
+    "coordinates": "-763.107, 615.906, 144.1401"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/2874HillcrestAve.webp",
+    "title": "IPL 2874HillcrestAve",
+    "district": "Unknown",
+    "coordinates": "-857.798, 682.563, 152.6529"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/2677Whispymound.webp",
+    "title": "IPL 2677Whispymound",
+    "district": "Unknown",
+    "coordinates": "120.5, 549.952, 184.097"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/2133MadWayne.webp",
+    "title": "IPL 2133MadWayne",
+    "district": "Unknown",
+    "coordinates": "-1288, 440.748, 97.6946"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/Motel.webp",
+    "title": "IPL Motel",
+    "district": "Unknown",
+    "coordinates": "152.2605, -1004.471, -98.9999"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/IPLApartment1.webp",
+    "title": "IPL Apartment 1",
+    "district": "Unknown",
+    "coordinates": "-786.8663, 315.7642, 217.6385"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/IPLApartment2.webp",
+    "title": "IPL Apartment 2",
+    "district": "Unknown",
+    "coordinates": "-786.9563, 315.6229, 187.9136"
+  },
+  {
+    "category": "Interior",
+    "image": "../assets/img/locations/models/IPLApartment3.webp",
+    "title": "IPL Apartment 3",
+    "district": "Unknown",
+    "coordinates": "-774.0126, 342.0428, 196.6864"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLStadium.webp",
+    "title": "IPL Stadium",
+    "district": "Unknown",
+    "coordinates": "-248.6731, -2010.603, 30.14562"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLOfficeArcadius.webp",
+    "title": "IPL Office Arcadius",
+    "district": "Unknown",
+    "coordinates": "-141.1987, -620.913, 168.8205"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLOfficeMazeBank.webp",
+    "title": "IPL Office Maze Bank",
+    "district": "Unknown",
+    "coordinates": "-75.8466, -826.9893, 243.3859"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLOfficeMazeBankW.webp",
+    "title": "IPL Office Maze Bank West",
+    "district": "Unknown",
+    "coordinates": "-1392.667, -480.4736, 72.0421"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLOfficeLombank.webp",
+    "title": "IPL Office Lombank",
+    "district": "Unknown",
+    "coordinates": "-1579.756, -565.0661, 108.523"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLCasinoMain.webp",
+    "title": "IPL IPL Casino Main",
+    "district": "Unknown",
+    "coordinates": "1100.0, 220.0, -50.0"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLCasinoGarage.webp",
+    "title": "IPL IPL Casino Garage",
+    "district": "Unknown",
+    "coordinates": "1295.0, 230.0, -50.0"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLMorgue.webp",
+    "title": "IPL Morgue",
+    "district": "Unknown",
+    "coordinates": "275.446, -1361.11, 24.5378"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLLestersFactory.webp",
+    "title": "IPL Lesters Factory",
+    "district": "Unknown",
+    "coordinates": "716.84, -962.05, 31.59"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLLifeinvader.webp",
+    "title": "IPL Lifeinvader",
+    "district": "Unknown",
+    "coordinates": "-1047.9, -233.0, 39.0"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLAircraftCarrier.webp",
+    "title": "IPL Aircraft Carrier",
+    "district": "Unknown",
+    "coordinates": "3084.731, -4770.709, 15.261"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLGunrunningHeist.webp",
+    "title": "IPL Gunrunning Heist",
+    "district": "Unknown",
+    "coordinates": "-1418.21, 6749.81, 10.98"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLDignityHeistYacht.webp",
+    "title": "IPL Dignity Heist Yacht",
+    "district": "Unknown",
+    "coordinates": "-2027.946, -1036.695, 6.707"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLCluckingBellFarms.webp",
+    "title": "IPL Clucking Bell Farms",
+    "district": "Unknown",
+    "coordinates": "-66.88, 6243.07, 31.07"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLTunnel.webp",
+    "title": "IPL Tunnel",
+    "district": "Unknown",
+    "coordinates": "-49.415, -558, 287, 30.1"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLWarehouse1.webp",
+    "title": "IPL Warehouse 1",
+    "district": "Unknown",
+    "coordinates": "1009.5, -3196.6, -38.99682"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLWarehouse2.webp",
+    "title": "IPL Warehouse 2",
+    "district": "Unknown",
+    "coordinates": "1051.491, -3196.536, -39.14842"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLWarehouse3.webp",
+    "title": "IPL Warehouse 3",
+    "district": "Unknown",
+    "coordinates": "1093.6, -3196.6, -38.99841"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLWarehouse4.webp",
+    "title": "IPL Warehouse 4",
+    "district": "Unknown",
+    "coordinates": "1121.897, -3195.338, -40.4025"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLWarehouseSmall.webp",
+    "title": "IPL Warehouse Small",
+    "district": "Unknown",
+    "coordinates": "1094.988, -3101.776, -39.00363"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLWarehouseMedium.webp",
+    "title": "IPL Warehouse Medium",
+    "district": "Unknown",
+    "coordinates": "1056.486, -3105.724, -39.00439"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLWarehouseLarge.webp",
+    "title": "IPL Warehouse Large",
+    "district": "Unknown",
+    "coordinates": "1006.967, -3102.079, -39.0035"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLFIBLobby.webp",
+    "title": "IPL FIB Lobby",
+    "district": "Unknown",
+    "coordinates": "110.4, -744.2, 45.7496"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLCarwash.webp",
+    "title": "IPL Carwash",
+    "district": "Unknown",
+    "coordinates": "55.7, -1391.3, 30.5"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLLostMC.webp",
+    "title": "IPL Lost MC",
+    "district": "Unknown",
+    "coordinates": "984.1552, -95.3662, 74.5"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLPillboxMD.webp",
+    "title": "IPL Pillbox MD",
+    "district": "Unknown",
+    "coordinates": "307.168, -590.807, 43.28"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLPDM.webp",
+    "title": "IPL PDM",
+    "district": "Unknown",
+    "coordinates": "-54.3, -1109.3767, 26.4358"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLFerrisWheel.webp",
+    "title": "IPL Ferris Wheel",
+    "district": "Unknown",
+    "coordinates": "-1645.55, -1113.04, 12.65"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLRaceTrack.webp",
+    "title": "IPL Race Track",
+    "district": "Unknown",
+    "coordinates": "1978, 3111, 46"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLCargoShip.webp",
+    "title": "IPL Cargo Ship",
+    "district": "Unknown",
+    "coordinates": "-163.3628, -2385.161, 5.999994"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLUnionDepo.webp",
+    "title": "IPL Union Depo",
+    "district": "Unknown",
+    "coordinates": "2.6968, -667.0166, 16.13061"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLTrevorsTrailer.webp",
+    "title": "IPL Trevors Trailer",
+    "district": "Unknown",
+    "coordinates": "1975.552, 3820.538, 33.44833"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLMaxRendaShop.webp",
+    "title": "IPL Max Renda Shop",
+    "district": "Unknown",
+    "coordinates": "-585.8247, -282.72, 35.45475"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLJuwel.webp",
+    "title": "IPL Juwel",
+    "district": "Unknown",
+    "coordinates": "-630.07, -236.332, 38.05704"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLONeilsFarm.webp",
+    "title": "IPL ONeils Farm",
+    "district": "Unknown",
+    "coordinates": "2469.03, 4955.278, 45.11892"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLCayoPerico.webp",
+    "title": "IPL Cayo Perico",
+    "district": "Unknown",
+    "coordinates": "4972.75, -5703.15, 19.88"
+  },
+  {
+    "category": "IPL",
+    "image": "../assets/img/locations/models/IPLNorthYankton.webp",
+    "title": "IPL NorthYankton",
+    "district": "Unknown",
+    "coordinates": "5327.56, -5189.22, 82.76"
+  },
+  {
+    "category": "Others",
+    "image": "../assets/img/locations/models/BunkerInterior.webp",
+    "title": "IPL Bunker Interior",
+    "district": "Unknown",
+    "coordinates": "899.5518, -3246.038, -98.04907"
+  },
+  {
+    "category": "Others",
+    "image": "../assets/img/locations/models/CharCreator.webp",
+    "title": "IPL Char Creator",
+    "district": "Unknown",
+    "coordinates": "402.5164, -1002.847, -99.2587"
+  },
+  {
+    "category": "Others",
+    "image": "../assets/img/locations/models/TortureRoom.webp",
+    "title": "IPL Torture Room",
+    "district": "Unknown",
+    "coordinates": "136.5146, -2203.149, 7.30914"
+  },
+  {
+    "category": "Others",
+    "image": "../assets/img/locations/models/SolomonsOffice.webp",
+    "title": "IPL Solomons Office",
+    "district": "Unknown",
+    "coordinates": "-1005.84, -478.92, 50.02733"
+  },
+  {
+    "category": "Others",
+    "image": "../assets/img/locations/models/PsychiatristsOffice.webp",
+    "title": "IPL Psychiatrists Office",
+    "district": "Unknown",
+    "coordinates": "-1908.024, -573.4244, 19.09722"
+  },
+  {
+    "category": "Others",
+    "image": "../assets/img/locations/models/OmegasGarage.webp",
+    "title": "IPL Omegas Garage",
+    "district": "Unknown",
+    "coordinates": "2331.344, 2574.073, 46.68137"
+  },
+  {
+    "category": "Others",
+    "image": "../assets/img/locations/models/MovieTheatre.webp",
+    "title": "IPL Movie Theatre",
+    "district": "Unknown",
+    "coordinates": "-1427.299, -245.1012, 16.8039"
+  },
+  {
+    "category": "Others",
+    "image": "../assets/img/locations/models/MadrazosRanch.webp",
+    "title": "IPL Madrazos Ranch",
+    "district": "Unknown",
+    "coordinates": "1399.9958, 1147.2348, 115.3213"
+  },
+  {
+    "category": "Others",
+    "image": "../assets/img/locations/models/LestersHouse.webp",
+    "title": "IPL LestersHouse",
+    "district": "Unknown",
+    "coordinates": "1273.9, -1719.305, 54.77141"
+  },
+  {
+    "category": "Others",
+    "image": "../assets/img/locations/models/FBITopFloor.webp",
+    "title": "IPL FBI Top Floor",
+    "district": "Unknown",
+    "coordinates": "134.5835, -749.339, 258.152"
+  },
+  {
+    "category": "Others",
+    "image": "../assets/img/locations/models/FBIFloor49.webp",
+    "title": "IPL FBI Floor 49",
+    "district": "Unknown",
+    "coordinates": "134.635, -765.831, 242.152"
+  },
+  {
+    "category": "Others",
+    "image": "../assets/img/locations/models/FBIFloor47.webp",
+    "title": "IPL FBI Floor 47",
+    "district": "Unknown",
+    "coordinates": "134.5835, -766.486, 234.152"
+  },
+  {
+    "category": "Others",
+    "image": "../assets/img/locations/models/IAAOffice.webp",
+    "title": "IPL IAA Office",
+    "district": "Unknown",
+    "coordinates": "117.22, -620.938, 206.1398"
+  }
+]
