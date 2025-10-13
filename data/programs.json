@@ -229,5 +229,38 @@
     },
     "link": "https://www.win-rar.com/",
     "platforms": ["Windows"]
+  },
+  {
+    "category": { "de": "Modifikation", "en": "Modification" },
+    "logo": "assets/img/gtav/programs/fivem.png",
+    "title": "FiveM",
+    "description": {
+      "de": "FiveM ist eine Multiplayer-Modifikation für GTA V, die es Spielern ermöglicht, eigene Server mit individuellen Spielmodi und Scripts zu erstellen.",
+      "en": "FiveM is a multiplayer modification for GTA V that allows players to create custom servers with unique game modes and scripts."
+    },
+    "link": "https://fivem.net/",
+    "platforms": ["Windows"]
+  },
+  {
+    "category": { "de": "Modifikation", "en": "Modification" },
+    "logo": "assets/img/gtav/programs/altv.png",
+    "title": "alt:V",
+    "description": {
+      "de": "alt:V ist eine alternative Multiplayer-Plattform für GTA V, die auf hohe Performance, Stabilität und moderne Script-APIs setzt.",
+      "en": "alt:V is an alternative multiplayer platform for GTA V focused on performance, stability, and modern scripting APIs."
+    },
+    "link": "https://altv.mp/",
+    "platforms": ["Windows", "Linux"]
+  },
+  {
+    "category": { "de": "Modifikation", "en": "Modification" },
+    "logo": "assets/img/gtav/programs/ragemp.png",
+    "title": "RageMP",
+    "description": {
+      "de": "RAGE Multiplayer ist eine weitere GTA-V-Multiplayer-Modifikation, die auf hohe Synchronisation und serverseitige Kontrolle ausgelegt ist.",
+      "en": "RAGE Multiplayer is another GTA V multiplayer modification designed for high synchronization and server-side control."
+    },
+    "link": "https://rage.mp/",
+    "platforms": ["Windows"]
   }
 ]
