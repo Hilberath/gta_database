@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "programs": "Programme/Tools",
+    "blips": "Blips",
+    "colors": "Farben",
+    "markers": "Marker",
+    "items": "Items",
+    "clothes": "Kleidung",
+    "peds": "Peds",
+    "vehicles": "Fahrzeuge",
+    "locations": "Standorte",
+    "mlos": "MLOs",
+    "map": "Map Übersicht"
+  },
+  "home": {
+    "title": "Hilberath GTA V Knowledge Database",
+    "tagline": "Alle Daten, Tools und Ressourcen rund um GTA V an einem Ort.",
+    "intro": "Diese Plattform bündelt alles Wichtige für Entwickler, Serverbetreiber und Modder – zentral, schnell und übersichtlich."
+  },
+  "tiles": {
+    "programs": { "title": "Programme/Tools", "desc": "Alle wichtigen Programme und Hilfsmittel." },
+    "blips": { "title": "Blips", "desc": "Alle Standortmarkierungen mit IDs." },
+    "colors": { "title": "Farben", "desc": "Farbcodes für HUD, Blips und mehr." },
+    "markers": { "title": "Marker", "desc": "Symbole mit Beispielen und Erklärungen." },
+    "items": { "title": "Items", "desc": "Inventargegenstände mit Bezeichnungen und IDs." },
+    "clothes": { "title": "Kleidung", "desc": "Sämtliche Kleidungsstücke aus GTA V." },
+    "peds": { "title": "Peds", "desc": "Alle NPC-Modelle mit Vorschau." },
+    "vehicles": { "title": "Fahrzeuge", "desc": "Liste aller Fahrzeuge mit Details." },
+    "locations": { "title": "Standorte", "desc": "Wichtige Orte mit Koordinaten." },
+    "mlos": { "title": "MLOs", "desc": "Ausgewählte MLOs mit Details." },
+    "map": { "title": "Map Übersicht", "desc": "Interaktive Karte mit Standorten und MLOs." }
+  },
+  "footer": {
+    "imprint": "Impressum",
+    "privacy": "Datenschutz"
+  },
+  "common": {
+    "entries": "Einträge"
+  }
+}

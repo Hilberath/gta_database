@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Home",
+    "programs": "Programs/Tools",
+    "blips": "Blips",
+    "colors": "Colors",
+    "markers": "Markers",
+    "items": "Items",
+    "clothes": "Clothes",
+    "peds": "Peds",
+    "vehicles": "Vehicles",
+    "locations": "Locations",
+    "mlos": "MLOs",
+    "map": "Map Overview"
+  },
+  "home": {
+    "title": "Hilberath GTA V Knowledge Database",
+    "tagline": "All data, tools and resources for GTA V in one place.",
+    "intro": "This platform centralizes everything for developers, server owners and modders – fast and clear."
+  },
+  "tiles": {
+    "programs": { "title": "Programs/Tools", "desc": "All essential tools and utilities." },
+    "blips": { "title": "Blips", "desc": "All map markers with IDs." },
+    "colors": { "title": "Colors", "desc": "Color codes for HUD, blips and more." },
+    "markers": { "title": "Markers", "desc": "Symbols with examples and explanations." },
+    "items": { "title": "Items", "desc": "Inventory items with labels and IDs." },
+    "clothes": { "title": "Clothes", "desc": "All vanilla GTA V clothing." },
+    "peds": { "title": "Peds", "desc": "All NPC models with previews." },
+    "vehicles": { "title": "Vehicles", "desc": "List of all vehicles with details." },
+    "locations": { "title": "Locations", "desc": "Important places with coordinates." },
+    "mlos": { "title": "MLOs", "desc": "Selected MLOs with details." },
+    "map": { "title": "Map Overview", "desc": "Interactive map with locations and MLOs." }
+  },
+  "footer": {
+    "imprint": "Imprint",
+    "privacy": "Privacy Policy"
+  },
+  "common": {
+    "entries": "entries"
+  }
+}

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="de" data-theme="dark">
   <head>
     <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="57x57" href="../assets/img/favicon/apple-icon-57x57.png" />
@@ -34,7 +34,152 @@
   </head>
 
   <body>
+    <div id="app">
+      <div id="header-include"></div>
+
+      <main>
+        <section class="hero" id="home-hero">
+          <div class="hero-bg" role="img" aria-label="Los Santos Skyline"></div>
+          <div class="hero-inner container">
+            <h1 data-i18n="home.title">Hilberath GTA V Knowledge Database</h1>
+            <p class="subtitle" data-i18n="home.tagline">Alle Daten, Tools und Ressourcen rund um GTA V an einem Ort.</p>
+          </div>
+        </section>
+
+        <section class="container intro">
+          <p data-i18n="home.intro">Diese Plattform bündelt alles Wichtige für Entwickler, Serverbetreiber und Modder – zentral, schnell und übersichtlich.</p>
+        </section>
+
+        <section class="container tiles">
+          <div class="tile-grid">
+            <a class="tile" href="pages/programs.html" data-dataset="programs.json">
+              <img loading="lazy" src="assets/img/placeholder.webp" alt="Programme" />
+              <h3 data-i18n="tiles.programs.title">Programme/Tools</h3>
+              <p data-i18n="tiles.programs.desc">Alle wichtigen Programme und Hilfsmittel.</p>
+              <div class="tile-meta">
+                <span class="badge count" data-meta="count">—</span>
+                <span class="separator">•</span>
+                <span class="badge updated" data-meta="updated">—</span>
+              </div>
+            </a>
+
+            <a class="tile" href="pages/blips.html" data-dataset="blips.json">
+              <img loading="lazy" src="assets/img/placeholder.webp" alt="Blips" />
+              <h3 data-i18n="tiles.blips.title">Blips</h3>
+              <p data-i18n="tiles.blips.desc">Alle Standortmarkierungen mit IDs.</p>
+              <div class="tile-meta">
+                <span class="badge count" data-meta="count">—</span>
+                <span class="separator">•</span>
+                <span class="badge updated" data-meta="updated">—</span>
+              </div>
+            </a>
+
+            <a class="tile" href="pages/colors.html" data-dataset="colors.json">
+              <img loading="lazy" src="assets/img/placeholder.webp" alt="Farben" />
+              <h3 data-i18n="tiles.colors.title">Farben</h3>
+              <p data-i18n="tiles.colors.desc">Farbcodes für HUD, Blips und mehr.</p>
+              <div class="tile-meta">
+                <span class="badge count" data-meta="count">—</span>
+                <span class="separator">•</span>
+                <span class="badge updated" data-meta="updated">—</span>
+              </div>
+            </a>
+
+            <a class="tile" href="pages/markers.html" data-dataset="markers.json">
+              <img loading="lazy" src="assets/img/placeholder.webp" alt="Marker" />
+              <h3 data-i18n="tiles.markers.title">Marker</h3>
+              <p data-i18n="tiles.markers.desc">Symbole mit Beispielen und Erklärungen.</p>
+              <div class="tile-meta">
+                <span class="badge count" data-meta="count">—</span>
+                <span class="separator">•</span>
+                <span class="badge updated" data-meta="updated">—</span>
+              </div>
+            </a>
+
+            <a class="tile" href="pages/items.html" data-dataset="items.json">
+              <img loading="lazy" src="assets/img/placeholder.webp" alt="Items" />
+              <h3 data-i18n="tiles.items.title">Items</h3>
+              <p data-i18n="tiles.items.desc">Inventargegenstände mit Bezeichnungen und IDs.</p>
+              <div class="tile-meta">
+                <span class="badge count" data-meta="count">—</span>
+                <span class="separator">•</span>
+                <span class="badge updated" data-meta="updated">—</span>
+              </div>
+            </a>
+
+            <a class="tile" href="pages/clothes.html" data-dataset="clothes.json">
+              <img loading="lazy" src="assets/img/placeholder.webp" alt="Kleidung" />
+              <h3 data-i18n="tiles.clothes.title">Kleidung</h3>
+              <p data-i18n="tiles.clothes.desc">Sämtliche Kleidungsstücke aus GTA V.</p>
+              <div class="tile-meta">
+                <span class="badge count" data-meta="count">—</span>
+                <span class="separator">•</span>
+                <span class="badge updated" data-meta="updated">—</span>
+              </div>
+            </a>
+
+            <a class="tile" href="pages/peds.html" data-dataset="peds.json">
+              <img loading="lazy" src="assets/img/placeholder.webp" alt="Peds" />
+              <h3 data-i18n="tiles.peds.title">Peds</h3>
+              <p data-i18n="tiles.peds.desc">Alle NPC-Modelle mit Vorschau.</p>
+              <div class="tile-meta">
+                <span class="badge count" data-meta="count">—</span>
+                <span class="separator">•</span>
+                <span class="badge updated" data-meta="updated">—</span>
+              </div>
+            </a>
+
+            <a class="tile" href="pages/vehicles.html" data-dataset="vehicles.json">
+              <img loading="lazy" src="assets/img/placeholder.webp" alt="Fahrzeuge" />
+              <h3 data-i18n="tiles.vehicles.title">Fahrzeuge</h3>
+              <p data-i18n="tiles.vehicles.desc">Liste aller Fahrzeuge mit Details.</p>
+              <div class="tile-meta">
+                <span class="badge count" data-meta="count">—</span>
+                <span class="separator">•</span>
+                <span class="badge updated" data-meta="updated">—</span>
+              </div>
+            </a>
+
+            <a class="tile" href="pages/locations.html" data-dataset="locations.json">
+              <img loading="lazy" src="assets/img/placeholder.webp" alt="Standorte" />
+              <h3 data-i18n="tiles.locations.title">Standorte</h3>
+              <p data-i18n="tiles.locations.desc">Wichtige Orte mit Koordinaten.</p>
+              <div class="tile-meta">
+                <span class="badge count" data-meta="count">—</span>
+                <span class="separator">•</span>
+                <span class="badge updated" data-meta="updated">—</span>
+              </div>
+            </a>
+
+            <a class="tile" href="pages/mlos.html" data-dataset="mlos.json">
+              <img loading="lazy" src="assets/img/placeholder.webp" alt="MLOs" />
+              <h3 data-i18n="tiles.mlos.title">MLOs</h3>
+              <p data-i18n="tiles.mlos.desc">Ausgewählte MLOs mit Details.</p>
+              <div class="tile-meta">
+                <span class="badge count" data-meta="count">—</span>
+                <span class="separator">•</span>
+                <span class="badge updated" data-meta="updated">—</span>
+              </div>
+            </a>
+
+            <a class="tile" href="pages/mapview/index.html">
+              <img loading="lazy" src="assets/img/placeholder.webp" alt="Map" />
+              <h3 data-i18n="tiles.map.title">Map Übersicht</h3>
+              <p data-i18n="tiles.map.desc">Interaktive Karte mit Standorten und MLOs.</p>
+              <div class="tile-meta">
+                <span class="badge count" data-meta="count" data-static>—</span>
+                <span class="separator">•</span>
+                <span class="badge updated" data-meta="updated" data-static>—</span>
+              </div>
+            </a>
+          </div>
+        </section>
+      </main>
+
+      <div id="footer-include"></div>
+    </div>
+
     <!-- SCRIPTS -->
-    <script src="scripts/script.js"></script>
+    <script src="assets/js/script.js"></script>
   </body>
 </html>
